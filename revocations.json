@@ -1,13 +1,9 @@
 {
   "Revocations": {
-    "Sequence": 1795596355,
-    "IssuedAt": "2026-11-25T08:46:18.3094719Z",
-    "Revoked": [
-      "TEST-001"
-    ],
-    "Messages": {
-      "TEST-001": "\u0434\u043E\u0441\u0442\u0443\u043F \u0437\u0430\u043A\u0440\u044B\u0442\u044C!"
-    }
+    "Sequence": 1795597084,
+    "IssuedAt": "2026-11-25T08:58:05.9671954Z",
+    "Revoked": [],
+    "Messages": {}
   },
-  "Signature": "T2xEjgbs\u002BU2jlItFEkUhXAiP0bdDBIy93gjkIQZrVbEAg6uTqeziLnqEXZoXKJptJYvRJ36in5FRY1OHpts8yapT5jIxnMIOUos/oPiyqfjxcaGpxEjVBj96F/7gP669IidVPDyeSEIzh3P3mV5e4InnzZjb/aEZffDPPJjR8Hz4j2Re140Ks2zEY259qJaNvIh\u002Bmm7r/tLRezGBdD5U26KorYWa6aRbj5bLHRWUgkkGdfuPe\u002BDrzO675lvAG925C3vJYLudRc6IGR3MTRq1pkXQvv4dFl16x/ij9FXsHI/vL7PYh4\u002B6WqJlZApiB6oXjucDKk0DYwl\u002BFleye5ibCA=="
+  "Signature": "Fk8OA7cHHack\u002Bdyf2cwPLFbU9E3B5WKK3iJq6GS1xuPRIA\u002BIey6LEJYArKIT00Hjn7DUqXLL6h\u002Byv67GtJy75GHCBfl5W7T\u002ByY/ygi5KuIeGX3/45DL1z7vGpi37zn7B9MN\u002B6pKBWgqbNBChLITI2Lemzrj3k6lGyYD1am8XqZFixbaw1xrY58Oq1P2yCub\u002BlRqn2QR46Bh5ih0IvnZxrAnTeMT5SoelqdJHIJQM04I55VTw3nXZ4FNi7pHk\u002Bj66MyV8m/6WWpDleCgFM19ojuFr8pt94NeVQrs5UGikyYXMKkbTBYlsdVy9BecJcXpkX\u002Br2rSidTtA19HDoP63iNw=="
 }
