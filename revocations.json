@@ -1,0 +1,13 @@
+{
+  "Revocations": {
+    "Sequence": 1795596355,
+    "IssuedAt": "2026-11-25T08:46:18.3094719Z",
+    "Revoked": [
+      "TEST-001"
+    ],
+    "Messages": {
+      "TEST-001": "\u0434\u043E\u0441\u0442\u0443\u043F \u0437\u0430\u043A\u0440\u044B\u0442\u044C!"
+    }
+  },
+  "Signature": "T2xEjgbs\u002BU2jlItFEkUhXAiP0bdDBIy93gjkIQZrVbEAg6uTqeziLnqEXZoXKJptJYvRJ36in5FRY1OHpts8yapT5jIxnMIOUos/oPiyqfjxcaGpxEjVBj96F/7gP669IidVPDyeSEIzh3P3mV5e4InnzZjb/aEZffDPPJjR8Hz4j2Re140Ks2zEY259qJaNvIh\u002Bmm7r/tLRezGBdD5U26KorYWa6aRbj5bLHRWUgkkGdfuPe\u002BDrzO675lvAG925C3vJYLudRc6IGR3MTRq1pkXQvv4dFl16x/ij9FXsHI/vL7PYh4\u002B6WqJlZApiB6oXjucDKk0DYwl\u002BFleye5ibCA=="
+}
