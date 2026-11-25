@@ -1,0 +1,9 @@
+{
+  "Revocations": {
+    "Sequence": 2,
+    "IssuedAt": "2026-11-25T08:14:02.9652331Z",
+    "Revoked": [],
+    "Messages": {}
+  },
+  "Signature": "BC71qD1W69rlVIiaVx9zM5z91y9e5SwgvKzRJa9xAPS8RsQfdIvAILz6ifXzwPEomrZk76pLWW5idco3tQQGsoKsWgAkChcf/ZsWPB/2pnyTl\u002B8pjbSWMVry\u002BNM/nD/OIOfG/MDpWEEQShvJ0bXU\u002B3GrpptO1Vkrx3EkukDS/G4gzYxPBKpImRei4QB4LChR1zXU/jxYZZrq\u002BMtkAm/ArZRaY0lbtE375n7KG2GLcFeULYqhrhgj8v7TCXBye8qldP88NkEjcNoFmzxNFT3fK4UbtoBRS3iBbZaDVBEdU/VuJ1KYEoMnF/H4TiO0uHCxq9VbYt6ArNEmoveNp8reBg=="
+}
